@@ -1,0 +1,35 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+}
+
+li .logo {
+  display: inline;
+  margin: 10px 10px;
+}
+
+.logo:hover {
+  background-color: skyblue;
+}
+
+li .history {
+  margin: 0 15px 0 1210px;
+  float: right;
+}
+
+#activity {
+  color: rgba(32, 36, 36, 0.247);
+}
+/*# sourceMappingURL=header.styles.css.map */
