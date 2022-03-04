@@ -25,7 +25,7 @@ li .logo {
 }
 
 li .history {
-  margin: 20px 15px 0 1120px;
+  margin: 20px 15px 0 1000px;
   float: right;
 }
 
@@ -36,5 +36,12 @@ li .history {
 
 .gene {
   font-size: 25px;
+}
+
+.header {
+  width: 1384px;
+  height: 48px;
+  margin-left: 32px;
+  border-top: 140px;
 }
 /*# sourceMappingURL=header.styles.css.map */

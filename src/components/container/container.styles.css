@@ -1,0 +1,21 @@
+div .Contain {
+  border-top: 236px;
+  border-right: 100px;
+  width: 864px;
+  height: 119px;
+  margin: 24px;
+  border-radius: 8px;
+  border: 1px solid #DDDDDD;
+  background-color: white;
+}
+
+.clie {
+  padding-left: 24px;
+  font-size: 30px;
+}
+
+.edit {
+  font-size: 15px;
+  margin-right: 65px;
+}
+/*# sourceMappingURL=container.styles.css.map */
