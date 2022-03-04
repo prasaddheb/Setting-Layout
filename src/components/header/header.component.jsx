@@ -12,7 +12,7 @@ export default function Header(){
   
   <li>  <Setting className="logo"/></li>
   <li>
-  <a href="/">General Setting</a>
+  <a href="/"  className="gene">General Setting</a>
 
   </li> 
   <li>

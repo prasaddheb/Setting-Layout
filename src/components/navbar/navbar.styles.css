@@ -23,4 +23,8 @@ li .logo {
 .logo:hover {
   background-color: skyblue;
 }
+
+.navbar{
+  background-color: #ca2222;
+}
 /*# sourceMappingURL=navbar.styles.css.map */

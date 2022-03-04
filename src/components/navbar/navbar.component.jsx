@@ -9,13 +9,13 @@ import './navbar.styles.css';
 export  default  function Navbar(){
   
   function Logoin(event) {
-    event.target.style.background = 'red';
+    event.target.style.background = 'white';
   }
   function Logoout(event){
     event.target.style.background="";
   }
 return(
-    <div className='header'>
+    <div className='navbar'>
       <ul>
         <li>
         <a href="/">client</a>
