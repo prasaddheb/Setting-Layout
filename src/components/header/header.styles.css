@@ -25,11 +25,16 @@ li .logo {
 }
 
 li .history {
-  margin: 0 15px 0 1210px;
+  margin: 20px 15px 0 1120px;
   float: right;
 }
 
 #activity {
-  color: rgba(32, 36, 36, 0.247);
+  margin: 20px 0px 0px 0px;
+  color: rgba(218, 18, 168, 0.247);
+}
+
+.gene {
+  font-size: 25px;
 }
 /*# sourceMappingURL=header.styles.css.map */
